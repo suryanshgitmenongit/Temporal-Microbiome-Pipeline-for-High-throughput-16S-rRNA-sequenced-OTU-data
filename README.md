@@ -111,3 +111,13 @@ pipeline.taxonomic_composition(
     filename='custom_output.png'
 )
 ```
+
+<img width="1187" alt="Screenshot 2024-11-20 at 2 11 28 PM" src="https://github.com/user-attachments/assets/4585c5b7-edc9-456f-ad15-1280b22c46bd">
+
+<img width="951" alt="Screenshot 2024-11-20 at 2 12 05 PM" src="https://github.com/user-attachments/assets/f048b8bd-09dc-4463-b77c-493e6ba8f1a6">
+
+<img width="889" alt="Screenshot 2024-11-20 at 2 13 20 PM" src="https://github.com/user-attachments/assets/81517715-9ae9-4511-8d3d-6dcbc585a3d3">
+
+<img width="890" alt="Screenshot 2024-11-20 at 2 13 38 PM" src="https://github.com/user-attachments/assets/14384500-7984-45e1-83b9-a5282cca2ee3">
+
+<img width="570" alt="Screenshot 2024-11-20 at 2 13 54 PM" src="https://github.com/user-attachments/assets/3a82e961-7cc7-4336-91ef-a26950f7d3c3">
