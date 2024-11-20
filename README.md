@@ -3,7 +3,9 @@
 TEMPHOS-16S is a comprehensive analytical pipeline designed for temporal analysis of microbiome data generated from high-throughput 16S rRNA sequencing. The pipeline integrates time series analysis, ecological metrics, and machine learning approaches to provide deep insights into microbial community dynamics.
 
 You can also run this directly on collab:
-https://colab.research.google.com/drive/1YkZOvJPm_ja36JKeDmiJnSqZ_p70ffxy?usp=sharing#scrollTo=gxbQ-MHJ2oue
+https://colab.research.google.com/drive/1YkZOvJPm_ja36JKeDmiJnSqZ_p70ffxy?usp=sharing#scrollTo=gxbQ-MHJ2oue {Streamlit App}
+OR
+https://colab.research.google.com/drive/1Qe06MD86ADzqSefDHMbl8CiP8sxDP1Qd?usp=sharing {pipeline overview}
 
 ## 🔑 Key Features
 
